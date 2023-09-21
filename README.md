@@ -5,7 +5,7 @@ This application implements the Morlet Wavelet Phase algorithm, developed primar
 to enable low limits of detection for optical thin film sensors. However, it can be used in any application where low noise measurement of frequency changes of an approximately 
 sinusoidal signal are required. If you use this application, please cite the following paper which introduced the algorithm:
 
-S. J. Ward, R. Layouni, S. Arshavsky-Graham, E. Segal, and S. M. Weiss, “Morlet Wavelet Filtering and Phase Analysis to Reduce the Limit of Detection for Thin Film Optical Biosensors,” ACS Sensors 6,  2967-2978 (2021).
+S. J. Ward, R. Layouni, S. Arshavsky-Graham, E. Segal, and S. M. Weiss, “Morlet Wavelet Filtering and Phase Analysis to Reduce the Limit of Detection for Thin Film Optical Biosensors,” ACS Sensors 6 (8),  2967-2978 (2021).
 
 Please note that this application is for non-commercial use only.
 ***
